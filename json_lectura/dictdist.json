@@ -30,16 +30,16 @@
        "port":13777,
        "factor":0
     },
-    {
+    /*{
        "nameOfService":"cuantos",
        "ip":"localhost",
        "port":13777,
        "factor":0
-    },
+    }*/,
     {
        "nameOfService":"fin",
        "ip":"localhost",
-       "port":13777,
+       "port":13700,
        "factor":0
     }
   ]
